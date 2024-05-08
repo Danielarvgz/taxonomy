@@ -1,0 +1,24 @@
+created_by: 
+domain: musical_instruments
+seed_examples:
+- answer: |in 1983–1985
+  question: When The Studio Custom was produced?
+- answer: |The Vintage Mahogany model has a carved mahogany body, top and neck, a rosewood fretboard and Alnico V BurstBucker Pro humbucker pickups
+  question: How The Vintage Mahogany model was build with ?
+- answer: |The SmartWood Exotic line (1996–2002), which was composed of six models
+  question: When the period SmartWood Exotic?
+- answer: |The Studio Swamp Ash (LPSANSCH1) was manufactured between 2003 and 2011
+  question: When is the period this Studio Swamp?
+- answer: |The Gem Series (1996–1998) had P-90 pickups and special finishes in "gemstone" colors: Amethyst, Sapphire, Topaz, Emerald, and Ruby
+  question: When is the period this Gem Series?
+task_description: ' '
+document: 
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: 854ffa248c43d08472886ed18b3de2de9e9afbe4
+ patterns:
+   - gibson_les_paul_studio.md
+
+
+
+
+
